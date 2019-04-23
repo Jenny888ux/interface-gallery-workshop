@@ -35,14 +35,24 @@ Schedule:
 
 # libraries
 
+win and mac
+
         Fisica: 	http://www.ricardmarxer.com/fisica/
 
         http://www.ricardmarxer.com/fisica/reference/index.html
 
 
-        openCV for Processing by Greg Borenstein
+        openCV for Processing:
         https://github.com/atduskgreg/opencv-processing
 
         reference:
         http://atduskgreg.github.io/opencv-processing/reference/
+        
+windows 10   
+
+        Kinect V2 for Processing 
+        https://github.com/ThomasLengeling/KinectPV2
+
+        und  Kinect for Windows SDK2.0 hier:
+        https://www.microsoft.com/en-us/download/details.aspx?id=44561
     
