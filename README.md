@@ -30,5 +30,13 @@ index
     contours
     blob + difference
     
+4   kinect v2
+    kinect images
+    users / HD to Depth
+    background subtraction
+    skeleton / gesture
+    skeleton mix
+    
+5   template interface gallery
     
     
