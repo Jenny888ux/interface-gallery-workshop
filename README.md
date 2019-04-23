@@ -14,8 +14,9 @@ schedule
     Array []
     PVector
     
-    Fisica library : http://www.ricardmarxer.com/fisica/
-    http://www.ricardmarxer.com/fisica/reference/index.html
+Fisica library : 	http://www.ricardmarxer.com/fisica/
+
+http://www.ricardmarxer.com/fisica/reference/index.html
     
 2   pixels & co.
     theorie
