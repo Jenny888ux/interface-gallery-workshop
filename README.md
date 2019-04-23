@@ -1,10 +1,10 @@
-# interfaace-gallery-workshop
-workshop codes
+# interface-gallery-workshop
+workshop schedule and codes
 
 Download list:
 
 
-index
+schedule
 
 1   point, line, ... shapes
     setup()
