@@ -1,10 +1,7 @@
 # interface-gallery-workshop
-workshop schedule and codes
+workshop schedule, downloads and codes
 
-Download list:
-
-
-schedule
+Schedule:
 
 1   point, line, ... shapes
     setup()
@@ -13,10 +10,6 @@ schedule
     mouse / key
     Array []
     PVector
-    
-Fisica library : 	http://www.ricardmarxer.com/fisica/
-
-http://www.ricardmarxer.com/fisica/reference/index.html
     
 2   pixels & co.
     theorie
@@ -39,5 +32,17 @@ http://www.ricardmarxer.com/fisica/reference/index.html
     skeleton mix
     
 5   template interface gallery
-    
+
+# libraries
+
+        Fisica: 	http://www.ricardmarxer.com/fisica/
+
+        http://www.ricardmarxer.com/fisica/reference/index.html
+
+
+        openCV for Processing by Greg Borenstein
+        https://github.com/atduskgreg/opencv-processing
+
+        reference:
+        http://atduskgreg.github.io/opencv-processing/reference/
     
