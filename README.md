@@ -68,3 +68,5 @@ windows 10
         und  Kinect for Windows SDK2.0 hier:
         https://www.microsoft.com/en-us/download/details.aspx?id=44561
     
+# prezi
+https://prezi.com/pobi0f_aah5g/?utm_campaign=share&utm_medium=copy&rc=ex0share
