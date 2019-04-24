@@ -12,6 +12,8 @@ void setup() {
   video = new Movie(this, "blobs.mov");
   opencv = new OpenCV(this, 320, 240);
 
+  // parameter cv::BackgroundSubtractorMOG
+  // (int history-Frames, int nMixtures-Gaussian blur, double backgroundRatio-Segmentation)
   //opencv.startBackgroundSubtraction(5, 3, 0.5);
 
   video.loop();
